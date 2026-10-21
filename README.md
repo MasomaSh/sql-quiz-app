@@ -74,7 +74,7 @@ Database credentials and private keys must never be committed to the repository.
 ## How to Use the Application
 
 1. Open the deployed application using the live application link above.
-2. Sign in with an account configured in Supabase Auth.
+2. Sign in with an existing account configured in Supabase Auth, or create a new account using the sign-up option.
 3. Select a quiz question and read its instructions.
 4. Review the hint if needed.
 5. Write a SQL query in the editor.
@@ -165,7 +165,7 @@ The deployment uses the repository's `main` branch and `app.py` as its applicati
 
 To deploy your own instance:
 
-1. Fork or clone the repository.
+1. Clone the repository.
 2. Configure a Supabase project and create the required database tables and permissions.
 3. Configure the required secrets in Streamlit Community Cloud.
 4. Deploy `app.py` from the repository.
@@ -199,10 +199,4 @@ sql-quiz-app/
 
 ## Future Improvements
 
-Possible future enhancements include additional SQL questions, more detailed query feedback, progress tracking, and a leaderboard.
-
-## Author
-
-**Masoma Shoayb**
-
-GitHub: https://github.com/MasomaSh
+Possible future enhancements include additional SQL questions, progress tracking, and a leaderboard.
