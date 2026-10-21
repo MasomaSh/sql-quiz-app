@@ -4,7 +4,7 @@ A web-based SQL learning application built with Python, Streamlit, and Supabase 
 
 ## Live Application and Repository
 
-- **Live application:** [INSERT YOUR STREAMLIT COMMUNITY CLOUD URL HERE]
+- **Live application:** https://sql-quiz-app-tdsng2a8psutotyep8bjwn.streamlit.app/ 
 - **GitHub repository:** https://github.com/MasomaSh/sql-quiz-app
 
 ## Project Overview
