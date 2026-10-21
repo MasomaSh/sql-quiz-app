@@ -4,8 +4,8 @@ A web-based SQL learning application built with Python, Streamlit, and Supabase 
 
 ## Live Application and Repository
 
-- **Live application:** https://sql-quiz-app-tdsng2a8psutotyep8bjwn.streamlit.app/ 
-- **GitHub repository:** https://github.com/MasomaSh/sql-quiz-app
+- **Live application:** [https://sql-quiz-app-tdsng2a8psutotyep8bjwn.streamlit.app/](https://sql-quiz-app-tdsng2a8psutotyep8bjwn.streamlit.app/)
+- **GitHub repository:** [https://github.com/MasomaSh/sql-quiz-app](https://github.com/MasomaSh/sql-quiz-app)
 
 ## Project Overview
 
@@ -80,7 +80,7 @@ Database credentials and private keys must never be committed to the repository.
 5. Write a SQL query in the editor.
 6. End the query with a semicolon.
 7. Run the query to view the returned results.
-8. Check the answer and review the feedback.
+8. Check your answer and review the feedback.
 9. Continue through the five quiz questions.
 
 Each question is worth 4 points, for a total of 20 points.
@@ -153,7 +153,7 @@ The project includes scripts for checking database connectivity and verifying da
 
 To view workflow runs and their results, visit the repository's Actions tab:
 
-https://github.com/MasomaSh/sql-quiz-app/actions
+[https://github.com/MasomaSh/sql-quiz-app/actions](https://github.com/MasomaSh/sql-quiz-app/actions)
 
 The workflow must be configured with the required repository secrets for database-dependent checks to succeed.
 
