@@ -44,6 +44,18 @@ The quiz consists of five questions, with each question worth 4 points and a tot
 
 The application extends the original SQL Quiz with a Retrieval-Augmented Generation (RAG) pipeline that converts natural-language questions into SQL queries.
 
+## Application Screenshots
+
+### 1. AI SQL Generation
+
+This screenshot shows a natural-language question and the executed SQL query, the returned results, and the validation outcome.
+
+<img width="1226" height="814" alt="Screenshot 2026-10-29 at 9 58 57 PM" src="https://github.com/user-attachments/assets/28931ee5-a27d-4857-82e7-a6bdc70a4e5a" />
+
+
+<img width="1260" height="793" alt="Screenshot 2026-10-29 at 9 59 18 PM" src="https://github.com/user-attachments/assets/96844b32-a3f8-4c60-a014-674a6a2c9668" />
+
+
 ### Technologies Used
 
 - **Supabase PostgreSQL:** Stores the relational practice database, including customers, products, and orders.
