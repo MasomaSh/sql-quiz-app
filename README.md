@@ -352,6 +352,4 @@ Possible future enhancements include:
 - Progress tracking and a leaderboard.
 - Support for additional database schemas and natural-language questions.
 
-## Acknowledgments
-
-This project was developed as part of coursework focused on SQL, PostgreSQL, vector databases, and Retrieval-Augmented Generation.
+**Note:** The AI SQL Assistant may take approximately 45-90 seconds to retrieve the relevant database schema from ChromaDB and generate the SQL query using Gemini. Please wait for the process to complete.
